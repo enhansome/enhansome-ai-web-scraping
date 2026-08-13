@@ -1,0 +1,343 @@
+{
+  "items": [
+    {
+      "description": "Self-hosted, open-source. Most pair a headless browser with an LLM for schema-based or prompt-based extraction.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Browser-Use",
+          "description": "Agent framework commonly used for scraping complex, login-walled sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:33:21Z",
+            "owner": "browser-use",
+            "repo": "browser-use",
+            "stars": 108991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crawl4AI",
+          "description": "LLM-friendly web crawler with Markdown output and JSON-schema or LLM-based extraction. Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:56:14Z",
+            "owner": "unclecode",
+            "repo": "crawl4ai",
+            "stars": 77958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrapling",
+          "description": "Adaptive Python framework with smart element tracking that relocates elements after site changes. Cloudflare Turnstile bypass, spider framework with pause/resume, and a built-in MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:45:32Z",
+            "owner": "D4Vinci",
+            "repo": "Scrapling",
+            "stars": 73703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScrapeGraphAI",
+          "description": "Python scraper using LLM + graph pipelines. Describe data in natural language, get typed JSON. Works with OpenAI, Anthropic, Groq, Gemini, Ollama.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:22:20Z",
+            "owner": "ScrapeGraphAI",
+            "repo": "Scrapegraph-ai",
+            "stars": 29446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stagehand",
+          "description": "Browser automation framework with , , and primitives over Playwright.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:01:38Z",
+            "owner": "browserbase",
+            "repo": "stagehand",
+            "stars": 23925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skyvern",
+          "description": "Browser automation for forms, logins, and dynamic content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:19:06Z",
+            "owner": "Skyvern-AI",
+            "repo": "skyvern",
+            "stars": 22741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reader",
+          "description": "Jina AI's URL-to-Markdown converter. Engine behind .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T02:56:46Z",
+            "owner": "jina-ai",
+            "repo": "reader",
+            "stars": 11858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-scraper",
+          "description": "TypeScript library for structured extraction with Zod schemas. Supports GPT, Claude, Gemini, Llama, Qwen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T02:49:24Z",
+            "owner": "mishushakov",
+            "repo": "llm-scraper",
+            "stars": 6906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaVague",
+          "description": "Natural language web automation framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-21T13:41:48Z",
+            "owner": "lavague-ai",
+            "repo": "LaVague",
+            "stars": 6386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyberScraper 2077",
+          "description": "LLM scraper with Streamlit UI. Supports OpenAI, Gemini, and Ollama. Tor support included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T22:22:00Z",
+            "owner": "itsOwen",
+            "repo": "CyberScraper-2077",
+            "stars": 3173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScraperAI",
+          "description": "AI scraper with auto-detection of page types, pagination, and catalog cards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-09-18T19:02:56Z",
+            "owner": "scraperai",
+            "repo": "scraperai",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpiderCreator",
+          "description": "Generates Playwright spiders from natural language prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-25T21:54:50Z",
+            "owner": "carlosplanchon",
+            "repo": "spidercreator",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PulsarRPA",
+          "description": "AI-powered browser automation and data extraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-11T19:33:14Z",
+            "owner": "platonai",
+            "repo": "PulsarRPA",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Frameworks & Libraries"
+    },
+    {
+      "description": "Headless browsers designed for AI agents and scrapers.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Obscura",
+          "description": "Rust-based headless browser. CDP-compatible with Puppeteer and Playwright. Built-in stealth and tracker blocking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T16:08:03Z",
+            "owner": "h4ckf0r0day",
+            "repo": "obscura",
+            "stars": 21304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browserable",
+          "description": "Open-source, self-hostable browser automation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-27T09:11:28Z",
+            "owner": "browserable",
+            "repo": "browserable",
+            "stars": 1200
+          }
+        }
+      ],
+      "title": "Browser Infrastructure for AI"
+    },
+    {
+      "description": "Model Context Protocol servers that expose scraping capabilities to Claude, Cursor, Windsurf, and other LLM clients.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fetch",
+          "description": "Anthropic's official fetch MCP server. URL-to-Markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T02:41:59Z",
+            "owner": "modelcontextprotocol",
+            "repo": "servers",
+            "stars": 89508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrapling MCP",
+          "description": "Built-in MCP server bundled with Scrapling. Install with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:45:32Z",
+            "owner": "D4Vinci",
+            "repo": "Scrapling",
+            "stars": 73703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firecrawl MCP",
+          "description": "Official MCP wrapper for Firecrawl's scrape, crawl, and extract endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:16:10Z",
+            "owner": "firecrawl",
+            "repo": "firecrawl-mcp-server",
+            "stars": 7222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apify MCP",
+          "description": "Run any Apify Actor as an MCP tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:35:44Z",
+            "owner": "apify",
+            "repo": "apify-mcp-server",
+            "stars": 3447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browserbase MCP",
+          "description": "MCP server exposing Browserbase sessions and Stagehand primitives.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T21:48:14Z",
+            "owner": "browserbase",
+            "repo": "mcp-server-browserbase",
+            "stars": 3411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bright Data MCP",
+          "description": "Search, scrape, and extract from 60+ sources with anti-bot bypass. 5,000 free requests/month.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T07:39:54Z",
+            "owner": "brightdata",
+            "repo": "brightdata-mcp",
+            "stars": 2585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puppeteer MCP",
+          "description": "Browser automation for scraping and interaction.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-05-28T17:57:12Z",
+            "owner": "modelcontextprotocol",
+            "repo": "servers-archived",
+            "stars": 294
+          }
+        }
+      ],
+      "title": "MCP Servers for Scraping"
+    },
+    {
+      "description": "To the extent possible under law, the contributors have waived all copyright and related rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:25.835Z",
+    "original_repository": "h4ckf0r0day/awesome-ai-web-scraping",
+    "original_repository_sha": "fdfbd5e560de19b13f2b184d29aee51bc83d1d29",
+    "enhanced_repository": "enhansome/enhansome-ai-web-scraping",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI Web Scraping with stars"
+  }
+}
