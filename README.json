@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T18:50:46Z",
+            "last_commit": "2026-08-18T00:25:56Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 109457
+            "stars": 109548
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T12:21:30Z",
+            "last_commit": "2026-08-17T09:01:57Z",
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 78399
+            "stars": 78528
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-11T18:45:32Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 74620
+            "stars": 74832
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-20T14:22:20Z",
             "owner": "ScrapeGraphAI",
             "repo": "Scrapegraph-ai",
-            "stars": 29635
+            "stars": 29670
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T23:54:36Z",
+            "last_commit": "2026-08-18T00:12:05Z",
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 23956
+            "stars": 23966
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T00:19:48Z",
+            "last_commit": "2026-08-18T00:19:19Z",
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22762
+            "stars": 22773
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-05-22T02:56:46Z",
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 11872
+            "stars": 11876
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-01-21T13:41:48Z",
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6385
+            "stars": 6386
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-02T22:22:00Z",
             "owner": "itsOwen",
             "repo": "CyberScraper-2077",
-            "stars": 3216
+            "stars": 3217
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-15T18:48:26Z",
             "owner": "h4ckf0r0day",
             "repo": "obscura",
-            "stars": 21480
+            "stars": 21553
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2025-08-27T09:11:28Z",
             "owner": "browserable",
             "repo": "browserable",
-            "stars": 1201
+            "stars": 1202
           }
         }
       ],
@@ -236,7 +236,7 @@
             "last_commit": "2026-08-10T02:41:59Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89612
+            "stars": 89644
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-11T18:45:32Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 74620
+            "stars": 74832
           }
         },
         {
@@ -261,10 +261,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T23:12:46Z",
+            "last_commit": "2026-08-17T21:03:13Z",
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7251
+            "stars": 7261
           }
         },
         {
@@ -275,10 +275,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T06:13:38Z",
+            "last_commit": "2026-08-17T20:33:01Z",
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 3902
+            "stars": 4018
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2026-07-20T21:48:14Z",
             "owner": "browserbase",
             "repo": "mcp-server-browserbase",
-            "stars": 3411
+            "stars": 3412
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2592
+            "stars": 2596
           }
         },
         {
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:58:34.184Z",
+    "last_updated": "2026-08-18T03:54:59.655Z",
     "original_repository": "h4ckf0r0day/awesome-ai-web-scraping",
     "original_repository_sha": "fdfbd5e560de19b13f2b184d29aee51bc83d1d29",
     "enhanced_repository": "enhansome/enhansome-ai-web-scraping",
