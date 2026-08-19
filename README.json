@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881458615,
             "language": "Python",
             "last_commit": "2026-08-18T17:07:08Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 109670
+            "stars": 109722
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798201435,
             "language": "Python",
-            "last_commit": "2026-08-18T13:48:30Z",
+            "last_commit": "2026-08-19T08:40:18Z",
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 78634
+            "stars": 78671
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872119017,
             "language": "Python",
             "last_commit": "2026-08-18T23:03:35Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 75019
+            "stars": 75114
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749126547,
             "language": "Python",
-            "last_commit": "2026-07-20T14:22:20Z",
+            "last_commit": "2026-08-19T07:26:59Z",
             "owner": "ScrapeGraphAI",
             "repo": "Scrapegraph-ai",
-            "stars": 29710
+            "stars": 29724
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776908852,
             "language": "TypeScript",
             "last_commit": "2026-08-18T21:15:30Z",
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 23979
+            "stars": 23984
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764723738,
             "language": "Python",
-            "last_commit": "2026-08-19T03:42:40Z",
+            "last_commit": "2026-08-19T04:54:25Z",
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22785
+            "stars": 22787
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 784546140,
             "language": "TypeScript",
             "last_commit": "2026-05-22T02:56:46Z",
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 11881
+            "stars": 11882
           }
         },
         {
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 789480255,
             "language": "TypeScript",
             "last_commit": "2026-08-02T02:49:24Z",
             "owner": "mishushakov",
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 763795053,
             "language": "Python",
             "last_commit": "2025-01-21T13:41:48Z",
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6386
+            "stars": 6387
           }
         },
         {
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 843946121,
             "language": "Python",
             "last_commit": "2026-08-02T22:22:00Z",
             "owner": "itsOwen",
             "repo": "CyberScraper-2077",
-            "stars": 3219
+            "stars": 3220
           }
         },
         {
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710781843,
             "language": "HTML",
             "last_commit": "2025-09-18T19:02:56Z",
             "owner": "scraperai",
             "repo": "scraperai",
-            "stars": 469
+            "stars": 470
           }
         },
         {
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 933816617,
             "language": "Python",
             "last_commit": "2025-08-25T21:54:50Z",
             "owner": "carlosplanchon",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1144072510,
             "language": "Kotlin",
             "last_commit": "2026-07-11T19:33:14Z",
             "owner": "platonai",
@@ -198,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1209343409,
             "language": "Rust",
             "last_commit": "2026-08-15T18:48:26Z",
             "owner": "h4ckf0r0day",
             "repo": "obscura",
-            "stars": 21645
+            "stars": 21669
           }
         },
         {
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962079433,
             "language": "JavaScript",
             "last_commit": "2025-08-27T09:11:28Z",
             "owner": "browserable",
@@ -232,11 +247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 890668799,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89676
+            "stars": 89684
           }
         },
         {
@@ -246,11 +262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872119017,
             "language": "Python",
             "last_commit": "2026-08-18T23:03:35Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 75019
+            "stars": 75114
           }
         },
         {
@@ -260,11 +277,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 899407931,
             "language": "JavaScript",
             "last_commit": "2026-08-18T18:06:57Z",
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7266
+            "stars": 7268
           }
         },
         {
@@ -274,11 +292,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 911256711,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:11:34Z",
+            "last_commit": "2026-08-19T12:10:22Z",
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 4142
+            "stars": 4203
           }
         },
         {
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 899184149,
             "language": "TypeScript",
             "last_commit": "2026-07-20T21:48:14Z",
             "owner": "browserbase",
@@ -302,11 +322,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 966718614,
             "language": "JavaScript",
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2598
+            "stars": 2601
           }
         },
         {
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 992061421,
             "language": "JavaScript",
             "last_commit": "2025-05-28T17:57:12Z",
             "owner": "modelcontextprotocol",
@@ -325,16 +347,12 @@
         }
       ],
       "title": "MCP Servers for Scraping"
-    },
-    {
-      "description": "To the extent possible under law, the contributors have waived all copyright and related rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:55:51.484Z",
+    "last_updated": "2026-08-19T12:17:55.072Z",
     "original_repository": "h4ckf0r0day/awesome-ai-web-scraping",
+    "original_repository_id": 1242847410,
     "original_repository_sha": "fdfbd5e560de19b13f2b184d29aee51bc83d1d29",
     "enhanced_repository": "enhansome/enhansome-ai-web-scraping",
     "enhanced_repository_description": null,
