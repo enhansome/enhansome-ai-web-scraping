@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T23:25:03Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 110284
+            "stars": 110331
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 798201435,
             "language": "Python",
-            "last_commit": "2026-08-20T09:23:36Z",
+            "last_commit": "2026-08-24T07:38:40Z",
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 79265
+            "stars": 79320
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-23T19:49:06Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 76137
+            "stars": 76250
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-23T13:18:10Z",
             "owner": "ScrapeGraphAI",
             "repo": "Scrapegraph-ai",
-            "stars": 29847
+            "stars": 29851
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-22T19:06:54Z",
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 24028
+            "stars": 24041
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 764723738,
             "language": "Python",
-            "last_commit": "2026-08-24T03:48:58Z",
+            "last_commit": "2026-08-24T07:03:43Z",
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22838
+            "stars": 22842
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-22T02:56:46Z",
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 11903
+            "stars": 11905
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-20T10:26:04Z",
             "owner": "itsOwen",
             "repo": "CyberScraper-2077",
-            "stars": 3234
+            "stars": 3237
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-09-18T19:02:56Z",
             "owner": "scraperai",
             "repo": "scraperai",
-            "stars": 471
+            "stars": 472
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 1209343409,
             "language": "Rust",
-            "last_commit": "2026-08-23T13:33:51Z",
+            "last_commit": "2026-08-24T09:28:00Z",
             "owner": "h4ckf0r0day",
             "repo": "obscura",
-            "stars": 22191
+            "stars": 22217
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89812
+            "stars": 89830
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-23T19:49:06Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 76137
+            "stars": 76250
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-21T15:54:03Z",
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7307
+            "stars": 7309
           }
         },
         {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 911256711,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:36:37Z",
+            "last_commit": "2026-08-24T14:06:54Z",
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 4718
+            "stars": 4779
           }
         },
         {
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:02:14.119Z",
+    "last_updated": "2026-08-24T14:46:10.481Z",
     "original_repository": "h4ckf0r0day/awesome-ai-web-scraping",
     "original_repository_id": 1242847410,
     "original_repository_sha": "fdfbd5e560de19b13f2b184d29aee51bc83d1d29",
