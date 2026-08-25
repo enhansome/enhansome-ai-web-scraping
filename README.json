@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T02:37:35Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 110395
+            "stars": 110413
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 798201435,
             "language": "Python",
-            "last_commit": "2026-08-24T07:38:40Z",
+            "last_commit": "2026-08-25T05:53:31Z",
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 79364
+            "stars": 79368
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T18:41:10Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 76335
+            "stars": 76347
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-23T13:18:10Z",
             "owner": "ScrapeGraphAI",
             "repo": "Scrapegraph-ai",
-            "stars": 29862
+            "stars": 29868
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-20T10:26:04Z",
             "owner": "itsOwen",
             "repo": "CyberScraper-2077",
-            "stars": 3239
+            "stars": 3241
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-24T09:28:00Z",
             "owner": "h4ckf0r0day",
             "repo": "obscura",
-            "stars": 22243
+            "stars": 22252
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89832
+            "stars": 89834
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-24T18:41:10Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 76335
+            "stars": 76347
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-24T20:36:12Z",
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 4830
+            "stars": 4834
           }
         },
         {
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:56:24.152Z",
+    "last_updated": "2026-08-25T06:33:57.463Z",
     "original_repository": "h4ckf0r0day/awesome-ai-web-scraping",
     "original_repository_id": 1242847410,
     "original_repository_sha": "fdfbd5e560de19b13f2b184d29aee51bc83d1d29",
