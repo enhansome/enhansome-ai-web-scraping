@@ -12,11 +12,12 @@
             "archived": false,
             "id": 881458615,
             "language": "Python",
-            "last_commit": "2026-08-26T18:41:37Z",
+            "last_commit": "2026-08-28T03:42:29Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 111390
-          }
+            "stars": 111551
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-25T07:39:29Z",
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 79521
-          }
+            "stars": 79649
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-25T18:39:16Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 76737
-          }
+            "stars": 76906
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-27T09:27:24Z",
             "owner": "ScrapeGraphAI",
             "repo": "Scrapegraph-ai",
-            "stars": 29979
-          }
+            "stars": 30018
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 776908852,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:56:39Z",
+            "last_commit": "2026-08-28T14:46:58Z",
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 24080
-          }
+            "stars": 24090
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 764723738,
             "language": "Python",
-            "last_commit": "2026-08-27T01:50:43Z",
+            "last_commit": "2026-08-28T06:52:28Z",
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22859
-          }
+            "stars": 22872
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-05-22T02:56:46Z",
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 11916
-          }
+            "stars": 11925
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2026-08-02T02:49:24Z",
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6915
-          }
+            "stars": 6916
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "lavague-ai",
             "repo": "LaVague",
             "stars": 6389
-          }
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2026-08-20T10:26:04Z",
             "owner": "itsOwen",
             "repo": "CyberScraper-2077",
-            "stars": 3247
-          }
+            "stars": 3248
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "scraperai",
             "repo": "scraperai",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "carlosplanchon",
             "repo": "spidercreator",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "platonai",
             "repo": "PulsarRPA",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         }
       ],
       "title": "Frameworks & Libraries"
@@ -216,8 +229,9 @@
             "last_commit": "2026-08-24T09:28:00Z",
             "owner": "h4ckf0r0day",
             "repo": "obscura",
-            "stars": 22351
-          }
+            "stars": 22387
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "browserable",
             "repo": "browserable",
             "stars": 1206
-          }
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         }
       ],
       "title": "Browser Infrastructure for AI"
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 890668799,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:12:36Z",
+            "last_commit": "2026-08-28T02:36:45Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89905
-          }
+            "stars": 89931
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -267,8 +283,9 @@
             "last_commit": "2026-08-25T18:39:16Z",
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 76737
-          }
+            "stars": 76906
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -279,11 +296,12 @@
             "archived": false,
             "id": 899407931,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T19:49:10Z",
+            "last_commit": "2026-08-28T14:53:38Z",
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7329
-          }
+            "stars": 7338
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -294,11 +312,12 @@
             "archived": false,
             "id": 911256711,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:07:37Z",
+            "last_commit": "2026-08-27T14:49:23Z",
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 5128
-          }
+            "stars": 5239
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "browserbase",
             "repo": "mcp-server-browserbase",
             "stars": 3408
-          }
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -327,8 +347,9 @@
             "last_commit": "2026-08-12T07:39:54Z",
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2612
-          }
+            "stars": 2614
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         },
         {
           "node_type": "item",
@@ -343,14 +364,15 @@
             "owner": "modelcontextprotocol",
             "repo": "servers-archived",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
         }
       ],
       "title": "MCP Servers for Scraping"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:05:47.403Z",
+    "last_updated": "2026-08-28T15:16:52.778Z",
     "original_repository_info": {
       "archived": false,
       "id": 1242847410,
@@ -358,7 +380,7 @@
       "last_commit": "2026-05-18T20:15:13Z",
       "owner": "h4ckf0r0day",
       "repo": "awesome-ai-web-scraping",
-      "stars": 86
+      "stars": 87
     },
     "original_repository_sha": "fdfbd5e560de19b13f2b184d29aee51bc83d1d29",
     "enhanced_repository": "enhansome/enhansome-ai-web-scraping",
