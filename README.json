@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+            "homepage": "https://browser-use.com",
             "id": 881458615,
             "language": "Python",
-            "last_commit": "2026-08-28T03:42:29Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:08:30Z",
+            "open_issues": 387,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 111551
+            "stars": 111598,
+            "topics": [
+              "ai-agents",
+              "ai-tools",
+              "browser-automation",
+              "browser-use",
+              "llm",
+              "playwright",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+            "homepage": "https://crawl4ai.com",
             "id": 798201435,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T07:39:29Z",
+            "open_issues": 173,
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 79649
+            "stars": 79677,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -42,12 +60,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+            "homepage": "https://scrapling.readthedocs.io/en/latest/",
             "id": 872119017,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T18:39:16Z",
+            "open_issues": 4,
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 76906
+            "stars": 76987,
+            "topics": [
+              "ai",
+              "ai-scraping",
+              "automation",
+              "crawler",
+              "crawling",
+              "crawling-python",
+              "data",
+              "data-extraction",
+              "mcp",
+              "mcp-server",
+              "playwright",
+              "python",
+              "scraping",
+              "selectors",
+              "stealth",
+              "web-scraper",
+              "web-scraping",
+              "web-scraping-python",
+              "webscraping",
+              "xpath"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -58,12 +102,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python scraper based on AI",
+            "homepage": "https://scrapegraphai.com",
             "id": 749126547,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T09:27:24Z",
+            "open_issues": 11,
             "owner": "ScrapeGraphAI",
             "repo": "Scrapegraph-ai",
-            "stars": 30018
+            "stars": 30024,
+            "topics": [
+              "ai-crawler",
+              "ai-scraping",
+              "ai-search",
+              "crawler",
+              "data-extraction",
+              "firecrawl-alternative",
+              "large-language-model",
+              "llm",
+              "markdown",
+              "rag",
+              "scraping",
+              "scraping-python",
+              "web-crawler",
+              "web-crawlers",
+              "web-data",
+              "web-data-extraction",
+              "web-scraper",
+              "web-scraping",
+              "web-search",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -74,12 +144,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The SDK For Browser Agents",
+            "homepage": "https://stagehand.dev",
             "id": 776908852,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:46:58Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:03:37Z",
+            "open_issues": 342,
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 24090
+            "stars": 24092,
+            "topics": [
+              "agents",
+              "ai",
+              "llms",
+              "playwright",
+              "puppeteer",
+              "selenium"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -90,12 +172,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate browser based workflows with AI",
+            "homepage": "https://www.skyvern.com",
             "id": 764723738,
             "language": "Python",
-            "last_commit": "2026-08-28T06:52:28Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:41:54Z",
+            "open_issues": 222,
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22872
+            "stars": 22876,
+            "topics": [
+              "ai",
+              "api",
+              "automation",
+              "browser",
+              "browser-automation",
+              "computer",
+              "gpt",
+              "llm",
+              "playwright",
+              "powerautomate",
+              "puppeteer",
+              "python",
+              "rpa",
+              "selenium",
+              "vision",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -106,12 +210,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/",
+            "homepage": "https://jina.ai/reader",
             "id": 784546140,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-22T02:56:46Z",
+            "open_issues": 28,
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 11925
+            "stars": 11926,
+            "topics": [
+              "llm",
+              "proxy"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -122,12 +234,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn any webpage into structured data using LLMs",
+            "homepage": null,
             "id": 789480255,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T02:49:24Z",
+            "open_issues": 7,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6916
+            "stars": 6916,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "browser",
+              "browser-automation",
+              "gpt",
+              "gpt-4",
+              "langchain",
+              "llama",
+              "llm",
+              "openai",
+              "playwright",
+              "puppeteer",
+              "scraper"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -138,12 +269,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large Action Model framework to develop AI Web Agents",
+            "homepage": "https://docs.lavague.ai/en/latest/",
             "id": 763795053,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-21T13:41:48Z",
+            "open_issues": 104,
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6389
+            "stars": 6389,
+            "topics": [
+              "ai",
+              "browser",
+              "large-action-model",
+              "llm",
+              "oss",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -154,12 +297,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama",
+            "homepage": null,
             "id": 843946121,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T10:26:04Z",
+            "open_issues": 3,
             "owner": "itsOwen",
             "repo": "CyberScraper-2077",
-            "stars": 3248
+            "stars": 3248,
+            "topics": [
+              "ai-scraping",
+              "gemini-api",
+              "llm",
+              "llm-scraper",
+              "openai",
+              "scraper",
+              "web-scraper",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -170,12 +327,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.",
+            "homepage": "https://docs.scraper-ai.com",
             "id": 710781843,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-18T19:02:56Z",
+            "open_issues": 4,
             "owner": "scraperai",
             "repo": "scraperai",
-            "stars": 474
+            "stars": 474,
+            "topics": [
+              "crawler",
+              "langchain",
+              "linkedin",
+              "openai",
+              "parser",
+              "parsing",
+              "python",
+              "requests",
+              "scraper",
+              "scraping",
+              "selenium"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -186,12 +360,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated web scraping spider generation using Browser Use and LLMs. Streamline the creation of Playwright-based spiders with minimal manual coding. Ideal for large enterprises with recurring data extraction needs.",
+            "homepage": "http://spidercreator.com/",
             "id": 933816617,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-25T21:54:50Z",
+            "open_issues": 6,
             "owner": "carlosplanchon",
             "repo": "spidercreator",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "ai",
+              "automation",
+              "browser-use",
+              "crawling",
+              "llm",
+              "low-code",
+              "no-code",
+              "python",
+              "rpa",
+              "scraping",
+              "spider",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -202,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PulsarRPA: The AI-Powered, Lightning-Fast Browser Automation Solution.",
+            "homepage": null,
             "id": 1144072510,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-11T19:33:14Z",
+            "open_issues": 0,
             "owner": "platonai",
             "repo": "PulsarRPA",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         }
@@ -224,12 +421,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The headless browser for AI agents and web scraping",
+            "homepage": "https://obscura.sh",
             "id": 1209343409,
             "language": "Rust",
-            "last_commit": "2026-08-24T09:28:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:00:15Z",
+            "open_issues": 70,
             "owner": "h4ckf0r0day",
             "repo": "obscura",
-            "stars": 22387
+            "stars": 22398,
+            "topics": [
+              "antidetect",
+              "antidetect-browser",
+              "browser",
+              "browser-automation",
+              "cdp",
+              "headless",
+              "playwright",
+              "puppeteer",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -240,12 +452,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source and self-hostable browser automation library for AI agents",
+            "homepage": "https://browserable.ai",
             "id": 962079433,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-27T09:11:28Z",
+            "open_issues": 9,
             "owner": "browserable",
             "repo": "browserable",
-            "stars": 1206
+            "stars": 1206,
+            "topics": [
+              "ai-agents",
+              "ai-tools",
+              "browser-automation",
+              "browser-use",
+              "browser-use-js",
+              "deep-research",
+              "javascript",
+              "llm",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         }
@@ -262,12 +489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model Context Protocol Servers",
+            "homepage": "https://modelcontextprotocol.io",
             "id": 890668799,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:36:45Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T17:58:20Z",
+            "open_issues": 506,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89931
+            "stars": 89940,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -278,12 +510,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+            "homepage": "https://scrapling.readthedocs.io/en/latest/",
             "id": 872119017,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T18:39:16Z",
+            "open_issues": 4,
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 76906
+            "stars": 76987,
+            "topics": [
+              "ai",
+              "ai-scraping",
+              "automation",
+              "crawler",
+              "crawling",
+              "crawling-python",
+              "data",
+              "data-extraction",
+              "mcp",
+              "mcp-server",
+              "playwright",
+              "python",
+              "scraping",
+              "selectors",
+              "stealth",
+              "web-scraper",
+              "web-scraping",
+              "web-scraping-python",
+              "webscraping",
+              "xpath"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -294,12 +552,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
+            "homepage": "https://firecrawl.dev",
             "id": 899407931,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:53:38Z",
+            "open_issues": 155,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7338
+            "stars": 7340,
+            "topics": [
+              "batch-processing",
+              "claude",
+              "content-extraction",
+              "data-collection",
+              "firecrawl",
+              "firecrawl-ai",
+              "javascript-rendering",
+              "llm-tools",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "search-api",
+              "web-crawler",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -310,12 +588,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+            "homepage": "https://mcp.apify.com",
             "id": 911256711,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:49:23Z",
+            "open_issues": 144,
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 5239
+            "stars": 5293,
+            "topics": [
+              "agents",
+              "ai",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -326,12 +614,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Allow LLMs to control a browser with Browserbase and Stagehand",
+            "homepage": "https://stagehand.dev",
             "id": 899184149,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T21:48:14Z",
+            "open_issues": 51,
             "owner": "browserbase",
             "repo": "mcp-server-browserbase",
-            "stars": 3408
+            "stars": 3407,
+            "topics": [
+              "ai",
+              "browser",
+              "chrome",
+              "chromium",
+              "mcp",
+              "playwright",
+              "puppeteer"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -342,12 +643,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+            "homepage": "https://brightdata.com/",
             "id": 966718614,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T07:39:54Z",
+            "open_issues": 35,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2614
+            "stars": 2614,
+            "topics": [
+              "ai-agents",
+              "ai-integrations",
+              "anti-bot-detection",
+              "browser-automation",
+              "data-collection",
+              "data-extraction",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "modelcontextprotocol",
+              "scraping",
+              "scraping-tools",
+              "structured-data",
+              "web-crawling",
+              "web-data",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         },
@@ -358,12 +681,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reference MCP servers that are no longer maintained",
+            "homepage": null,
             "id": 992061421,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-28T17:57:12Z",
+            "open_issues": 0,
             "owner": "modelcontextprotocol",
             "repo": "servers-archived",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
         }
@@ -372,15 +700,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:16:52.778Z",
+    "last_updated": "2026-08-29T05:01:11.458Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
+      "homepage": null,
       "id": 1242847410,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-18T20:15:13Z",
+      "open_issues": 12,
       "owner": "h4ckf0r0day",
       "repo": "awesome-ai-web-scraping",
-      "stars": 87
+      "stars": 87,
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "llm",
+        "scraping",
+        "web-scraping"
+      ]
     },
     "original_repository_sha": "fdfbd5e560de19b13f2b184d29aee51bc83d1d29",
     "enhanced_repository": "enhansome/enhansome-ai-web-scraping",
