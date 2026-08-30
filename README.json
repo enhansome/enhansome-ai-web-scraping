@@ -15,11 +15,11 @@
             "id": 881458615,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:08:30Z",
-            "open_issues": 387,
+            "last_commit": "2026-08-30T09:02:27Z",
+            "open_issues": 390,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 111611,
+            "stars": 111700,
             "topics": [
               "ai-agents",
               "ai-tools",
@@ -48,7 +48,7 @@
             "open_issues": 174,
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 79752,
+            "stars": 79986,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
@@ -66,10 +66,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T18:39:16Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 77025,
+            "stars": 77265,
             "topics": [
               "ai",
               "ai-scraping",
@@ -111,7 +111,7 @@
             "open_issues": 11,
             "owner": "ScrapeGraphAI",
             "repo": "Scrapegraph-ai",
-            "stars": 30028,
+            "stars": 30063,
             "topics": [
               "ai-crawler",
               "ai-scraping",
@@ -149,11 +149,11 @@
             "id": 776908852,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:03:37Z",
-            "open_issues": 343,
+            "last_commit": "2026-08-30T07:00:28Z",
+            "open_issues": 341,
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 24092,
+            "stars": 24097,
             "topics": [
               "agents",
               "ai",
@@ -177,11 +177,11 @@
             "id": 764723738,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T00:41:54Z",
+            "last_commit": "2026-08-30T06:33:53Z",
             "open_issues": 222,
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22875,
+            "stars": 22881,
             "topics": [
               "ai",
               "api",
@@ -219,7 +219,7 @@
             "open_issues": 28,
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 11928,
+            "stars": 11930,
             "topics": [
               "llm",
               "proxy"
@@ -243,7 +243,7 @@
             "open_issues": 7,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6916,
+            "stars": 6917,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -278,7 +278,7 @@
             "open_issues": 104,
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6389,
+            "stars": 6388,
             "topics": [
               "ai",
               "browser",
@@ -306,7 +306,7 @@
             "open_issues": 3,
             "owner": "itsOwen",
             "repo": "CyberScraper-2077",
-            "stars": 3249,
+            "stars": 3250,
             "topics": [
               "ai-scraping",
               "gemini-api",
@@ -336,7 +336,7 @@
             "open_issues": 4,
             "owner": "scraperai",
             "repo": "scraperai",
-            "stars": 474,
+            "stars": 475,
             "topics": [
               "crawler",
               "langchain",
@@ -426,11 +426,11 @@
             "id": 1209343409,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:00:15Z",
-            "open_issues": 73,
+            "last_commit": "2026-08-29T21:26:23Z",
+            "open_issues": 84,
             "owner": "h4ckf0r0day",
             "repo": "obscura",
-            "stars": 22402,
+            "stars": 22422,
             "topics": [
               "antidetect",
               "antidetect-browser",
@@ -495,10 +495,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:58:20Z",
-            "open_issues": 509,
+            "open_issues": 511,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89947,
+            "stars": 89963,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
@@ -516,10 +516,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T18:39:16Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 77025,
+            "stars": 77265,
             "topics": [
               "ai",
               "ai-scraping",
@@ -561,7 +561,7 @@
             "open_issues": 155,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7343,
+            "stars": 7350,
             "topics": [
               "batch-processing",
               "claude",
@@ -594,10 +594,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-27T14:49:23Z",
-            "open_issues": 144,
+            "open_issues": 145,
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 5308,
+            "stars": 5384,
             "topics": [
               "agents",
               "ai",
@@ -623,7 +623,7 @@
             "open_issues": 51,
             "owner": "browserbase",
             "repo": "mcp-server-browserbase",
-            "stars": 3407,
+            "stars": 3406,
             "topics": [
               "ai",
               "browser",
@@ -652,7 +652,7 @@
             "open_issues": 35,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2614,
+            "stars": 2616,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -690,7 +690,7 @@
             "open_issues": 0,
             "owner": "modelcontextprotocol",
             "repo": "servers-archived",
-            "stars": 294,
+            "stars": 295,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
@@ -700,7 +700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:59:11.376Z",
+    "last_updated": "2026-08-30T09:09:43.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
