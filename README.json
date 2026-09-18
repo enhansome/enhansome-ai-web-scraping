@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-15T22:49:04Z",
-            "open_issues": 432,
+            "open_issues": 438,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 114879,
+            "stars": 115052,
             "topics": [
               "ai-agents",
               "ai-tools",
@@ -44,11 +44,11 @@
             "id": 798201435,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T07:49:01Z",
-            "open_issues": 200,
+            "last_commit": "2026-09-18T07:00:43Z",
+            "open_issues": 201,
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 83741,
+            "stars": 83794,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
@@ -65,11 +65,11 @@
             "id": 872119017,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T19:47:52Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-17T23:59:17Z",
+            "open_issues": 6,
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 81634,
+            "stars": 81953,
             "topics": [
               "ai",
               "ai-scraping",
@@ -108,10 +108,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T13:49:52Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "ScrapeGraphAI",
             "repo": "Scrapegraph-ai",
-            "stars": 31049,
+            "stars": 31068,
             "topics": [
               "ai-crawler",
               "ai-scraping",
@@ -149,11 +149,11 @@
             "id": 776908852,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T08:32:54Z",
-            "open_issues": 384,
+            "last_commit": "2026-09-18T00:15:24Z",
+            "open_issues": 387,
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 24316,
+            "stars": 24327,
             "topics": [
               "agents",
               "ai",
@@ -185,11 +185,11 @@
             "id": 764723738,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T08:30:33Z",
-            "open_issues": 239,
+            "last_commit": "2026-09-18T03:44:31Z",
+            "open_issues": 243,
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 23018,
+            "stars": 23021,
             "topics": [
               "ai",
               "api",
@@ -227,7 +227,7 @@
             "open_issues": 29,
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 12014,
+            "stars": 12020,
             "topics": [
               "llm",
               "proxy"
@@ -251,7 +251,7 @@
             "open_issues": 9,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6931,
+            "stars": 6934,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -286,7 +286,7 @@
             "open_issues": 105,
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6389,
+            "stars": 6387,
             "topics": [
               "ai",
               "browser",
@@ -314,7 +314,7 @@
             "open_issues": 3,
             "owner": "itsOwen",
             "repo": "CyberScraper-2077",
-            "stars": 3261,
+            "stars": 3260,
             "topics": [
               "ai-scraping",
               "gemini-api",
@@ -344,7 +344,7 @@
             "open_issues": 4,
             "owner": "scraperai",
             "repo": "scraperai",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "crawler",
               "langchain",
@@ -435,10 +435,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T17:40:09Z",
-            "open_issues": 148,
+            "open_issues": 151,
             "owner": "h4ckf0r0day",
             "repo": "obscura",
-            "stars": 27302,
+            "stars": 27349,
             "topics": [
               "antidetect",
               "antidetect-browser",
@@ -503,10 +503,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T01:42:26Z",
-            "open_issues": 540,
+            "open_issues": 547,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 90405,
+            "stars": 90429,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:52.778Z"
@@ -523,11 +523,11 @@
             "id": 872119017,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T19:47:52Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-17T23:59:17Z",
+            "open_issues": 6,
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 81634,
+            "stars": 81953,
             "topics": [
               "ai",
               "ai-scraping",
@@ -555,6 +555,32 @@
         },
         {
           "node_type": "item",
+          "title": "Apify MCP",
+          "description": "Run any Apify Actor as an MCP tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+            "homepage": "https://mcp.apify.com",
+            "id": 911256711,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-17T21:09:49Z",
+            "open_issues": 171,
+            "owner": "apify",
+            "repo": "apify-mcp-server",
+            "stars": 7586,
+            "topics": [
+              "agents",
+              "ai",
+              "mcp",
+              "mcp-server"
+            ]
+          },
+          "first_seen": "2026-08-28T15:16:52.778Z"
+        },
+        {
+          "node_type": "item",
           "title": "Firecrawl MCP",
           "description": "Official MCP wrapper for Firecrawl's scrape, crawl, and extract endpoints.",
           "children": [],
@@ -563,13 +589,13 @@
             "description": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
             "homepage": "https://firecrawl.dev",
             "id": 899407931,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T07:08:33Z",
+            "last_commit": "2026-09-18T06:18:58Z",
             "open_issues": 137,
             "owner": "firecrawl",
             "repo": "firecrawl-mcp-server",
-            "stars": 7471,
+            "stars": 7478,
             "topics": [
               "batch-processing",
               "claude",
@@ -591,32 +617,6 @@
         },
         {
           "node_type": "item",
-          "title": "Apify MCP",
-          "description": "Run any Apify Actor as an MCP tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
-            "homepage": "https://mcp.apify.com",
-            "id": 911256711,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-17T06:40:16Z",
-            "open_issues": 162,
-            "owner": "apify",
-            "repo": "apify-mcp-server",
-            "stars": 7456,
-            "topics": [
-              "agents",
-              "ai",
-              "mcp",
-              "mcp-server"
-            ]
-          },
-          "first_seen": "2026-08-28T15:16:52.778Z"
-        },
-        {
-          "node_type": "item",
           "title": "Browserbase MCP",
           "description": "MCP server exposing Browserbase sessions and Stagehand primitives.",
           "children": [],
@@ -631,7 +631,7 @@
             "open_issues": 52,
             "owner": "browserbase",
             "repo": "mcp-server-browserbase",
-            "stars": 3409,
+            "stars": 3411,
             "topics": [
               "ai",
               "browser",
@@ -656,11 +656,11 @@
             "id": 966718614,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T17:05:55Z",
+            "last_commit": "2026-09-17T14:51:38Z",
             "open_issues": 44,
             "owner": "brightdata",
             "repo": "brightdata-mcp",
-            "stars": 2648,
+            "stars": 2649,
             "topics": [
               "ai-agents",
               "ai-integrations",
@@ -708,7 +708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T08:35:31.525Z",
+    "last_updated": "2026-09-18T08:11:13.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",
@@ -720,7 +720,7 @@
       "open_issues": 16,
       "owner": "h4ckf0r0day",
       "repo": "awesome-ai-web-scraping",
-      "stars": 100,
+      "stars": 101,
       "topics": [
         "ai",
         "awesome",
