@@ -19,7 +19,7 @@
             "open_issues": 535,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 117237,
+            "stars": 117238,
             "topics": [
               "ai-agents",
               "ai-tools",
@@ -48,7 +48,7 @@
             "open_issues": 15,
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 85904,
+            "stars": 85906,
             "topics": [
               "ai",
               "ai-scraping",
@@ -90,7 +90,7 @@
             "open_issues": 234,
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 84817,
+            "stars": 84819,
             "topics": [
               "ai",
               "ai-agents",
@@ -454,7 +454,7 @@
             "open_issues": 195,
             "owner": "h4ckf0r0day",
             "repo": "obscura",
-            "stars": 28530,
+            "stars": 28532,
             "topics": [
               "antidetect",
               "antidetect-browser",
@@ -543,7 +543,7 @@
             "open_issues": 15,
             "owner": "D4Vinci",
             "repo": "Scrapling",
-            "stars": 85904,
+            "stars": 85906,
             "topics": [
               "ai",
               "ai-scraping",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:10:26.190Z",
+    "last_updated": "2026-10-06T10:21:53.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.",

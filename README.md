@@ -32,9 +32,9 @@ Frameworks, hosted APIs, browser infrastructure, MCP servers, and research for t
 
 Self-hosted, open-source. Most pair a headless browser with an LLM for schema-based or prompt-based extraction.
 
-* [Browser-Use](https://github.com/browser-use/browser-use) ⭐ 117,237 | 🐛 535 | 🌐 Python | 📅 2026-10-03 - Agent framework commonly used for scraping complex, login-walled sites. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)
-* [Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 85,904 | 🐛 15 | 🌐 Python | 📅 2026-10-06 - Adaptive Python framework with smart element tracking that relocates elements after site changes. Cloudflare Turnstile bypass, spider framework with pause/resume, and a built-in MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=social)
-* [Crawl4AI](https://github.com/unclecode/crawl4ai) ⭐ 84,817 | 🐛 234 | 🌐 Python | 📅 2026-10-05 - LLM-friendly web crawler with Markdown output and JSON-schema or LLM-based extraction. Python. ![GitHub Repo stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)
+* [Browser-Use](https://github.com/browser-use/browser-use) ⭐ 117,238 | 🐛 535 | 🌐 Python | 📅 2026-10-03 - Agent framework commonly used for scraping complex, login-walled sites. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)
+* [Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 85,906 | 🐛 15 | 🌐 Python | 📅 2026-10-06 - Adaptive Python framework with smart element tracking that relocates elements after site changes. Cloudflare Turnstile bypass, spider framework with pause/resume, and a built-in MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=social)
+* [Crawl4AI](https://github.com/unclecode/crawl4ai) ⭐ 84,819 | 🐛 234 | 🌐 Python | 📅 2026-10-05 - LLM-friendly web crawler with Markdown output and JSON-schema or LLM-based extraction. Python. ![GitHub Repo stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)
 * [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 31,554 | 🐛 18 | 🌐 Python | 📅 2026-10-06 - Python scraper using LLM + graph pipelines. Describe data in natural language, get typed JSON. Works with OpenAI, Anthropic, Groq, Gemini, Ollama. ![GitHub Repo stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social)
 * [Stagehand](https://github.com/browserbase/stagehand) ⭐ 25,544 | 🐛 379 | 🌐 TypeScript | 📅 2026-10-06 - Browser automation framework with `act`, `extract`, and `observe` primitives over Playwright. ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/stagehand?style=social)
 * [Skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 23,140 | 🐛 276 | 🌐 Python | 📅 2026-10-06 - Browser automation for forms, logins, and dynamic content. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
@@ -70,7 +70,7 @@ Managed services that turn URLs into LLM-ready Markdown or JSON. JS rendering, p
 
 Headless browsers designed for AI agents and scrapers.
 
-* [Obscura](https://github.com/h4ckf0r0day/obscura) ⭐ 28,530 | 🐛 195 | 🌐 Rust | 📅 2026-10-04 - Rust-based headless browser. CDP-compatible with Puppeteer and Playwright. Built-in stealth and tracker blocking. ![GitHub Repo stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=social)
+* [Obscura](https://github.com/h4ckf0r0day/obscura) ⭐ 28,532 | 🐛 195 | 🌐 Rust | 📅 2026-10-04 - Rust-based headless browser. CDP-compatible with Puppeteer and Playwright. Built-in stealth and tracker blocking. ![GitHub Repo stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=social)
 * [Browserable](https://github.com/browserable/browserable) ⭐ 1,208 | 🐛 9 | 🌐 JavaScript | 📅 2025-08-27 - Open-source, self-hostable browser automation library. ![GitHub Repo stars](https://img.shields.io/github/stars/browserable/browserable?style=social)
 * [Steel.dev](https://steel.dev/) - Open-source headless browser API for AI agents. Self-host or use the hosted service. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 * [Browserbase](https://www.browserbase.com/) - Hosted headless browser. Powers Stagehand. Paid.
@@ -94,7 +94,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 [Model Context Protocol](https://modelcontextprotocol.io/) servers that expose scraping capabilities to Claude, Cursor, Windsurf, and other LLM clients.
 
 * [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) ⭐ 91,035 | 🐛 491 | 🌐 TypeScript | 📅 2026-10-05 - Anthropic's official fetch MCP server. URL-to-Markdown.
-* [Scrapling MCP](https://scrapling.readthedocs.io/en/latest/ai/mcp-server/) - Built-in MCP server bundled with [Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 85,904 | 🐛 15 | 🌐 Python | 📅 2026-10-06. Install with `pip install "scrapling[ai]"`.
+* [Scrapling MCP](https://scrapling.readthedocs.io/en/latest/ai/mcp-server/) - Built-in MCP server bundled with [Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 85,906 | 🐛 15 | 🌐 Python | 📅 2026-10-06. Install with `pip install "scrapling[ai]"`.
 * [Apify MCP](https://github.com/apify/actors-mcp-server) ⭐ 9,803 | 🐛 198 | 🌐 TypeScript | 📅 2026-10-06 - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
 * [Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server) ⭐ 7,559 | 🐛 164 | 🌐 JavaScript | 📅 2026-10-06 - Official MCP wrapper for Firecrawl's scrape, crawl, and extract endpoints. ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl-mcp-server?style=social)
 * [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) ⚠️ Archived - MCP server exposing Browserbase sessions and Stagehand primitives. ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=social)
